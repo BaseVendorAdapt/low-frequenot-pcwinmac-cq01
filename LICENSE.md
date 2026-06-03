@@ -1,4 +1,4 @@
-# 
+# 自定义 low-frequency trading bot 附加组件 Mac OS版 | 官方 low-frequency trading bot 附加组件 PC Windows版。集成 全仓模式支持 和 警报通知，跨平台性能最大化。
 
 
 
